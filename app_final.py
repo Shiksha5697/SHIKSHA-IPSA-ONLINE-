@@ -18,7 +18,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = r"model_v3_fast\ipsa_v3_fast_combined.joblib"
+MODEL_PATH = r"model_v3_fast/ipsa_v3_fast_combined.joblib"
 
 
 # ============================================================
